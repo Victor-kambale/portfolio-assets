@@ -1,22 +1,7 @@
 # portfolio-assets
 Static assets, project screenshots, and visual media for my live portfolio platforms.
 
-Yes, 100% correct! Because your live websites are hosted on Vercel, clients can click the links, open your websites, and test the features in real-time.
-They can click the buttons, see your smooth animations, and test your forms. Vercel keeps the live website public, even though your raw code on GitHub is 100% private. Your secret code is perfectly safe.
-
-------------------------------
-
-## How to Prevent People from Stealing Your Pictures
-
-To protect your future and prevent people from downloading, copying, or using your portfolio screenshots for their own fake websites, you can use a hidden security trick built into GitHub markdown.
-Instead of a basic image, we wrap your screenshots inside an HTML <picture> tag combined with an oncontextmenu="return false;" command. This completely disables the "Right-Click -> Save Image As" function on your GitHub profile, stopping lazy copycats from stealing your visual work.
-
-------------------------------
-
-## Your Final, Production-Ready GitHub Profile Code
-
-Go to your main Victor-kambale repository, edit your README.md, and paste this clean code inside.
-(Note: Replace the PASTE_YOUR_..._URL placeholders with your hosted image links from your portfolio-assets repository whenever you are ready. Even without the pictures filled in yet, you can save this file right now to secure your professional structure).
+Yes, 100% correct! 
 
 # Hi there, I'm Victor Kambale 👋### Elite Full-Stack Systems Architect & Java Developer
 Highly dedicated Full-Stack Software Engineer specializing in scalable enterprise infrastructure, high-concurrency systems, and multi-tenant cloud ecosystems. I design and build highly optimized, production-grade applications engineered to scale globally.
