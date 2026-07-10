@@ -1,5 +1,5 @@
 # portfolio-assets
-Static assets, project screenshots, and visual media for my live portfolio platforms.
+## Static assets, project screenshots, and visual media for my live portfolio platforms.
 
 Yes, 100% correct! 
 
@@ -9,7 +9,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 🌐 **Master Corporate Domain:** [victorkambale.com](https://victorkambale.com)  
 💼 **Contract Status:** Available for Global Remote Contracts & B2B Architecture Consulting (W-8BEN Compliant)
 
-# 🏗️ Enterprise Production Platforms Catalog*To preserve corporate privacy, proprietary software logic, and commercial intellectual property, the source files for these systems are securely maintained under encrypted private repository networks. Click the active deployment links to tour and test the live, fully functional software systems.*
+## 🏗️ Enterprise Production Platforms Catalog*To preserve corporate privacy, proprietary software logic, and commercial intellectual property, the source files for these systems are securely maintained under encrypted private repository networks. Click the active deployment links to tour and test the live, fully functional software systems.*
 
 
 # 🎵 01. St. Denis Choir Ggaba Parish Platform<p align="center">
@@ -35,7 +35,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 * **System Integration Link:** [👉 Click Here to Test the Live Application](https://victorkambale.com)
 
 
-## 💬 04. CoreSphere Instant Messaging Engine<p align="center">
+# 💬 04. CoreSphere Instant Messaging Engine<p align="center">
 
 
   <img src="PASTE_YOUR_CORESPHERE_IMAGE_URL_HERE" alt="CoreSphere Communication Platform" width="100%" style="border-radius: 8px; border: 1px solid #30363d; pointer-events: none;" oncontextmenu="return false;"/></p>
@@ -73,7 +73,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 * **System Integration Link:** [👉 Click Here to Test the Live Application](https://victorkambale.com)
 
 
--# 🎓 09. Eduverse Academic Platform Management System <p align="center">
+# 🎓 09. Eduverse Academic Platform Management System <p align="center">
 
 
   <img src="PASTE_YOUR_EDUVERSE_IMAGE_URL_HERE" alt="Eduverse Academic Platform" width="100%" style="border-radius: 8px; border: 1px solid #30363d; pointer-events: none;" oncontextmenu="return false;"/></p>
@@ -107,7 +107,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 * System Integration Link: 👉 Click Here to Test the Live Application
 
 ------------------------------
-## 🏢 12. Corporate Enterprise Ecosystem Architecture
+# 🏢 12. Corporate Enterprise Ecosystem Architecture
 
 
 
@@ -118,7 +118,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 * System Integration Link: 👉 Click Here to Test the Live Application
 
 ------------------------------
-## 🌐 13. Multi-Tenant Software Empire Marketplace
+# 🌐 13. Multi-Tenant Software Empire Marketplace
 
 
 
@@ -129,7 +129,7 @@ Highly dedicated Full-Stack Software Engineer specializing in scalable enterpris
 * System Integration Link: 👉 Click Here to Test the Live Application
 
 ------------------------------
-## 🏛️ 14. Gov-Tech Intelligence & Automation Hub
+# 🏛️ 14. Gov-Tech Intelligence & Automation Hub
 
 
 
